@@ -1,89 +1,80 @@
-# Hi, I’m Iman Ein Alizadeh 👋  
-**MSc Computer Science @ University of Edinburgh | AI & Data Engineer**
+# Iman Ein Alizadeh
 
-🎓 Graduate in **Artificial Intelligence (B.Sc.)** from Brunel University, now pursuing **MSc Computer Science** at the University of Edinburgh.  
-💡 Passionate about **Machine Learning**, **Computer Vision**, and **Data-Driven Engineering**, with hands-on experience building intelligent systems and scalable analytics solutions.  
-📍 Based in Edinburgh, UK | 📧 [ieinalizadeh@gmail.com](mailto:ieinalizadeh@gmail.com)
+**MSc Computer Science (High Performance Computing & Data Science), University of Edinburgh**
 
----
-
-## 🚀 About Me
-- 💻 I enjoy bridging **AI research** and **real-world applications**, from data pipelines to NLP and computer vision solutions.  
-- 🧠 Experienced with **Python, Java, SQL, R**, and **React.js**, using frameworks like **TensorFlow**, **Pandas**, and **Scikit-learn**.  
-- 🤝 Strong collaborator — I’ve worked in **fintech and edtech environments**, contributing to scalable systems, dashboards, and APIs.  
-- 🌍 Open to research collaborations, internships, or data science projects.
+UK · ieinalizadeh@gmail.com · 07392 305508 · [linkedin.com/in/imaneinalizadeh](https://www.linkedin.com/in/imaneinalizadeh)
 
 ---
 
-## 🧩 Experience Highlights
+## About
 
-### **My Arman Education Group LTD** — *Learning Technology Team Member*  
-*London, UK | Jul 2025 – Sept 2025*  
-- Designed and developed a **scalable Canvas LMS** with personalized analytics.  
-- Built custom dashboards and modules in collaboration with fintech and edtech experts at **Level39**.  
-- Contributed to the institution’s **digital education transformation**.
-
-### **Brunel University** — *Academic Mentor*  
-*London, UK | Sept 2024 – Jun 2025*  
-- Mentored second-year students in *Usability Engineering (CS2003)*.  
-- Created a digital resource hub and helped increase student performance by **20%**.
-
-### **Alhavi Pharmaceuticals Co. (Remote)** — *Frontend Developer*  
-*London, UK | Jan 2024 – Jun 2024*  
-- Led front-end development using **React.js, Tailwind CSS, and Axios**.  
-- Migrated legacy codebase to a modular, maintainable architecture.  
-- Collaborated cross-functionally using **Figma** and Agile tools.
+Software and data engineer with a background spanning high-performance computing, machine learning, and full-stack platform development. Recent MSc graduate from the University of Edinburgh, with experience ranging from risk analysis at Goldman Sachs to building a UK university data and immigration platform from the ground up.
 
 ---
 
-## 🧠 Technical Skills
+## Experience
 
-| Category | Tools / Skills |
-|-----------|----------------|
-| **Programming** | Python, Java, SQL, R, JavaScript (React, Node), HTML5, CSS3 |
-| **Data & AI** | TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib |
-| **ML Techniques** | Supervised & Unsupervised Learning, Neural Networks, Computer Vision, NLP |
-| **Data Engineering** | Data Cleaning, Feature Engineering, Dashboarding, Pipeline Automation |
-| **Enterprise Tools** | API Integration, Trello, Git, Webpack, Vite, ESLint |
-| **Soft Skills** | Mentoring, Communication, Agile Collaboration, Teaching |
+**Apply University — London (Remote)**
+*Full-Stack Developer & Data Engineer* · Jan 2026 – May 2026
+Built and led the technology side of a UK student immigration platform from scratch. Developed automated tools to gather course information, fees, and entry requirements from 50+ UK universities, used AI to structure the data into a database, and built a full client management system covering applicant tracking, visa workflows, document handling, and staff dashboards. Delivered supporting tools including automated reports and a browser extension to speed up daily operations.
 
----
+**Goldman Sachs — London, UK**
+*Risk & Operations Analyst* · Jul 2025 – Sep 2025
+Completed an internship with Goldman Sachs' Risk and Operations teams, focused on risk assessment, credit analysis, and operational issue resolution. Analysed financial and real estate data to identify risk and recommend mitigation strategies, and worked to improve trade settlement and asset transfer processes. Collaborated with Trading, Compliance, and IT teams, applying operational risk management and regulatory best practices.
 
-## 🧰 Featured Projects
-
-- 🩺 **[Canvas LMS Analytics](#)** — Scalable LMS with custom analytics and real-time performance tracking (Python, React, SQL).  
-- 🤖 **[AI Document Analyzer](#)** — NLP and computer vision pipeline for intelligent document parsing (TensorFlow, SpaCy).  
-- 📊 **[Data Insights Dashboard](#)** — Interactive dashboard for data analytics and visualization (Python, Dash, Plotly).  
-
-> *(Links will be added as projects go public.)*
+**My Arman Education Group LTD — London, UK**
+*Learning Technology Team Member* · Jul 2025 – Sep 2025
+Contributed to designing and developing a scalable Canvas LMS for Arman Institution at Level39, featuring performance tracking and personalised analytics. Delivered custom modules and dashboards in collaboration with fintech and edtech experts, supporting the institution's digital education transformation.
 
 ---
 
-## 🎓 Education
-- **MSc Computer Science**, *University of Edinburgh* (2025–2026)  
-- **B.Sc. Artificial Intelligence**, *Brunel University London* (2022–2025) — *First Class Honours*  
-- **Associate Degree in Computer Science**, *Bath Academy* — *First Class*  
-- **Maths HSD**, *Allameh Tabatabai Kargar* — *GPA: 3.8/4.0*
+## Education
+
+- **University of Edinburgh** — MSc Computer Science (High Performance Computing & Data Science), 2025–2026 *(TBC)*
+- **Brunel University London** — BSc Artificial Intelligence, 2022–2025 — First Class Honours
+- **Bath Academy** — Associate Degree in Computer Science — First Class
 
 ---
 
-## 🪪 Certifications
-- **Data Analysis with Python** – IBM (Credly, 2025)  
-- **TensorFlow for AI, ML, and Deep Learning** – Coursera (2025)  
-- **Object-Oriented Java Programming** – Coursera (2025)  
-- **Computer Vision** – Coursera (2025)  
-- **Data Analytics Consulting Virtual Internship** – KPMG (Forage, 2024)  
-- **Java Certifications** – HackerRank & CodinGame (2023)
+## Awards & Selections
+
+- Gold Medalist, National Physics Olympiad, Iran, 2020 — ranked 3rd nationally, granting admission to any university in the country
+- Represented Iran at the Asian Physics Olympiad 2020, India
+- Participant, University of Edinburgh Engineering AI Hackathon — built an event-organising assistant powered by an MCP server integrating five APIs
 
 ---
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/iman-ein-alizadeh)  
-- 📧 [ieinalizadeh@gmail.com](mailto:ieinalizadeh@gmail.com)  
-- 📍 Edinburgh, UK  
-- 💻 [GitHub Portfolio](https://github.com/ieinalizadeh)
+## Featured Projects
+
+### Hierarchical Multi-Class Fake News Detection
+`Python` `PyTorch` `Hugging Face Transformers` `BERT` `Docker` `NLP`
+
+MSc dissertation project — a hierarchical AI system for fine-grained fake news detection, capable of identifying emerging misinformation types including AI-generated content and clickbait. Built a two-stage architecture separating coarse semantic grouping from fine-grained classification, allowing new categories to be added without retraining the full model. Implemented preprocessing pipelines, optimised performance, and deployed the system in a production-ready environment for real-time classification.
+
+### [UK University Course Database & Immigration Platform](https://aryam.co.uk)
+`Python` `Claude AI (Haiku)` `Supabase (PostgreSQL)` `REST APIs` `BeautifulSoup` `Flask` `Railway` `Excel/OpenPyXL` `JSON`
+
+Led development of a UK university course intelligence platform for a student immigration consultancy. Built automated scrapers across 50+ universities, integrated AI to structure and validate course data, and delivered a full CRM system with applicant tracking, visa workflows, and document management — designed end-to-end from data collection through to production deployment.
+
+### [Adaptive Movement Control of Swift Bot via Facial Expression Recognition](https://github.com/imaneinalizadeh/Adaptive-Movement-Control-of-Swift-Bot-via-Facial-Expression-Recognition)
+`Python` `MediaPipe` `OpenCV`
+
+Real-time facial expression recognition system mapped to adaptive robot movement control.
 
 ---
 
-> ✨ *“I’m passionate about using AI and data to make technology more human-centered — turning complex problems into elegant solutions.”*  
-> — **Iman Ein Alizadeh**
+## Skills
+
+| Category | Tools |
+|---|---|
+| **Programming** | Python, MATLAB, C++, Java, C#, SQL, HTML |
+| **ML / Data** | PyTorch, Hugging Face Transformers, NLP preprocessing |
+| **Software Tools** | Git, GitHub, GitLab, MS Office, SolidWorks, Unity |
+| **Infrastructure** | Docker, Flask, Railway, REST APIs, Supabase (PostgreSQL) |
+| **Languages** | English |
+
+---
+
+## Contact
+
+📧 [ieinalizadeh@gmail.com](mailto:ieinalizadeh@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/imaneinalizadeh)
