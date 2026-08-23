@@ -1,0 +1,78 @@
+id,title,subreddit,category,group,coarse_label,fine_label,group1_fine_label,has_number_lead,has_question,has_ellipsis,has_exclamation,word_count,caps_ratio,clickbait_score,split
+cb_001,"10 Reasons Why Scientists Are TERRIFIED of What's Coming Next",nottheonion,7,1,1,7,2,1,0,0,0,12,0.08,0.95,train
+cb_002,"You Won't Believe What This Town Did After Their Water Was Poisoned",worldnews,7,1,1,7,2,0,0,0,0,15,0.0,0.82,train
+cb_003,"The Real Reason Why Banks Don't Want You to Know About This Loophole",news,7,1,1,7,2,0,0,0,0,15,0.0,0.78,train
+cb_004,"SHOCKING: Local Man Discovers Government Has Been Hiding This for Decades!!!",nottheonion,7,1,1,7,2,0,0,0,1,12,0.08,0.91,train
+cb_005,"What Doctors Don't Want You to Know About This Common Household Item",Uplifting_News,7,1,1,7,2,0,0,0,0,14,0.0,0.85,train
+cb_006,"Find Out Which Foods Are SECRETLY Destroying Your Health Every Day",LifeProTips,7,1,1,7,2,0,0,0,0,12,0.08,0.88,train
+cb_007,"5 Things The Media Won't Tell You About The Climate Crisis",news,7,1,1,7,2,1,0,0,0,13,0.0,0.79,train
+cb_008,"Here's Why Everything You Know About Nutrition Is Completely Wrong",todayilearned,7,1,1,7,2,0,0,0,0,13,0.0,0.72,train
+cb_009,"This Is Why Millions of Americans Are Switching to This Simple Trick",UpliftingNews,7,1,1,7,2,0,0,0,0,14,0.0,0.75,train
+cb_010,"What Happens When You Stop Eating Sugar for 30 Days... The Results Will Shock You",todayilearned,7,1,1,7,2,0,0,1,0,17,0.0,0.83,train
+cb_011,"BREAKING: Scientists Discover the ONE Food That Causes Cancer in Everyone",worldnews,7,1,1,7,2,0,0,0,0,13,0.08,0.90,train
+cb_012,"The Shocking Truth About What Airlines Put in Your Food",nottheonion,7,1,1,7,2,0,0,0,0,13,0.08,0.71,train
+cb_013,"21 Signs You're Actually a Genius and Never Knew It",interestingasfuck,7,1,1,7,2,1,0,0,0,11,0.0,0.82,train
+cb_014,"You Need to See What This Nurse Found in a Hospital Cafeteria",news,7,1,1,7,2,0,0,0,0,13,0.0,0.68,train
+cb_015,"The Reason Why Your Doctor Is Lying to You About Vaccines",worldnews,7,1,1,7,2,0,0,0,0,13,0.0,0.73,train
+cb_016,"7 Foods That Are SECRETLY Making You Fat Without You Even Knowing",LifeProTips,7,1,1,7,2,1,0,0,0,13,0.08,0.87,train
+cb_017,"Here's What Really Happens Inside Slaughterhouses — You'll Never Eat Meat Again",nottheonion,7,1,1,7,2,0,0,0,0,15,0.0,0.76,train
+cb_018,"This Simple Morning Habit Will Change Your Life Forever, According to Science",UpliftingNews,7,1,1,7,2,0,0,0,0,13,0.0,0.69,train
+cb_019,"What No One Is Telling You About 5G Towers and Your Brain",news,7,1,1,7,2,0,0,0,0,13,0.0,0.74,train
+cb_020,"The Biggest Lie You've Ever Been Told About Exercise",mildlyinteresting,7,1,1,7,2,0,0,0,0,11,0.0,0.65,train
+cb_021,"15 Unbelievable Facts About the Ocean That Will Blow Your Mind",interestingasfuck,7,1,1,7,2,1,0,0,0,12,0.0,0.84,train
+cb_022,"Find Out Why This Common Drug Is DESTROYING Your Liver Slowly",LifeProTips,7,1,1,7,2,0,0,0,0,12,0.08,0.81,train
+cb_023,"You Won't Believe How Much Money the Government Wastes Every Hour",news,7,1,1,7,2,0,0,0,0,13,0.0,0.79,train
+cb_024,"INCREDIBLE: Man Loses 40 Pounds in 30 Days Using THIS One Weird Trick",UpliftingNews,7,1,1,7,2,0,0,0,0,14,0.08,0.89,train
+cb_025,"The Hidden Truth About What's Really Inside Your Bottled Water",nottheonion,7,1,1,7,2,0,0,0,0,13,0.0,0.68,train
+cb_026,"9 Things Your Boss Doesn't Want You to Know About Your Rights at Work",YouShouldKnow,7,1,1,7,2,1,0,0,0,14,0.0,0.82,train
+cb_027,"What Scientists Just Discovered About Sleep Will Keep You Up at Night",todayilearned,7,1,1,7,2,0,0,0,0,13,0.0,0.71,train
+cb_028,"This Is What Happens to Your Body When You Drink Coffee Every Morning",LifeProTips,7,1,1,7,2,0,0,0,0,13,0.0,0.69,train
+cb_029,"WATCH: Police Officer Does Something That Has the Internet Going CRAZY",worldnews,7,1,1,7,2,0,0,0,0,13,0.17,0.88,train
+cb_030,"The One Supplement Doctors Wish They Could Tell You About But Can't",YouShouldKnow,7,1,1,7,2,0,0,0,0,14,0.0,0.72,train
+cb_031,"12 Everyday Habits That Are Slowly Killing You — Number 7 Will Shock You",interestingasfuck,7,1,1,7,2,1,0,0,0,14,0.0,0.86,train
+cb_032,"Here's the Real Story Behind Why Your Internet Is Getting Slower",news,7,1,1,7,2,0,0,0,0,13,0.0,0.67,train
+cb_033,"You've Been Eating Cereal Wrong Your Entire Life — Here's Why",todayilearned,7,1,1,7,2,0,0,0,0,12,0.0,0.71,train
+cb_034,"MUST SEE: Scientist Reveals the Truth About What's in Your Tap Water",worldnews,7,1,1,7,2,0,0,0,0,13,0.08,0.85,train
+cb_035,"What They're Not Telling You About the New COVID Variant",news,7,1,1,7,2,0,0,0,0,11,0.0,0.64,train
+cb_036,"The Weird Trick That Lets You Fall Asleep in 2 Minutes Flat",LifeProTips,7,1,1,7,2,0,0,0,0,13,0.0,0.68,train
+cb_037,"Scientists Are BAFFLED by What This Woman Did to Cure Her Arthritis",UpliftingNews,7,1,1,7,2,0,0,0,0,13,0.08,0.82,train
+cb_038,"8 Warning Signs Your Body Is Giving You That You're Completely Ignoring",YouShouldKnow,7,1,1,7,2,1,0,0,0,14,0.0,0.80,train
+cb_039,"What Pilots Know About Flying That They'll Never Tell Passengers",interestingasfuck,7,1,1,7,2,0,0,0,0,12,0.0,0.67,train
+cb_040,"This Is the REAL Reason Why You're Always Tired No Matter How Much You Sleep",nottheonion,7,1,1,7,2,0,0,0,0,16,0.06,0.78,train
+sat_001,"Florida Man Claims Alligator Stole His Emotional Support Peacock",nottheonion,1,1,1,1,0,0,0,0,0,9,0.0,0.35,train
+sat_002,"Congress Passes Law Requiring All Bills to Be Written in Comic Sans",nottheonion,1,1,1,1,0,0,0,0,0,13,0.0,0.28,train
+sat_003,"Area Man Certain He's the Only Person Who Truly Understands the Economy",nottheonion,1,1,1,1,0,0,0,0,0,12,0.0,0.22,train
+sat_004,"Nation's Experts Agree: That Thing You're Doing Is Probably Fine",nottheonion,1,1,1,1,0,0,0,0,0,11,0.0,0.19,train
+sat_005,"Local Man Spends 3 Hours Explaining Why He Doesn't Watch TV",nottheonion,1,1,1,1,0,0,0,0,0,12,0.0,0.21,train
+sat_006,"World Leaders Agree to Stop All Wars Until After the Holidays",nottheonion,1,1,1,1,0,0,0,0,0,12,0.0,0.18,train
+sat_007,"Study Finds That People Who Argue on the Internet Are Mostly Right",nottheonion,1,1,1,1,0,0,0,0,0,13,0.0,0.24,train
+sat_008,"New App Lets You Pretend You Have Friends During Family Dinners",nottheonion,1,1,1,1,0,0,0,0,0,13,0.0,0.20,train
+sat_009,"Tech CEO Assures Users Their Data Is Only Sold to Trustworthy Billionaires",nottheonion,1,1,1,1,0,0,0,0,0,13,0.0,0.17,train
+sat_010,"Nation Somehow Surprised When Politician Breaks Promise",nottheonion,1,1,1,1,0,0,0,0,0,9,0.0,0.15,train
+fc_001,"Viral Photo Shows Thousands of Climate Protesters — Actually from 2012 Concert",worldnews,4,1,1,4,1,0,0,0,0,14,0.0,0.32,train
+fc_002,"Image Showing Massive Factory Fire Circulating Online — Actually a Steel Mill in Normal Operation",news,4,1,1,4,1,0,0,0,0,15,0.0,0.28,train
+fc_003,"Photo of Packed Hospital Emergency Room Shared as COVID Surge — Actually from a 2018 Flu Season",worldnews,4,1,1,4,1,0,0,0,0,17,0.0,0.30,train
+fc_004,"Video of 'Police Brutality' Goes Viral — Footage Actually Shows Stunt Rehearsal for Film",news,4,1,1,4,1,0,0,0,0,13,0.0,0.25,train
+fc_005,"Map Showing 'Russian Troop Movements' Shared Thousands of Times — Actually a Video Game Screenshot",worldnews,4,1,1,4,1,0,0,0,0,15,0.0,0.27,train
+true_001,"Federal Reserve raises interest rates by 25 basis points amid inflation concerns",news,0,0,0,0,0,0,0,0,0,13,0.0,0.02,train
+true_002,"UK Parliament passes new climate legislation setting 2035 net zero targets",worldnews,0,0,0,0,0,0,0,0,0,11,0.0,0.03,train
+true_003,"WHO declares end of COVID-19 global health emergency",worldnews,0,0,0,0,0,0,0,0,0,9,0.0,0.01,train
+true_004,"NVIDIA announces new GPU architecture at annual developer conference",news,0,0,0,0,0,0,0,0,0,9,0.0,0.02,train
+true_005,"Scientists sequence genome of the rare Javan rhino for conservation efforts",news,0,0,0,0,0,0,0,0,0,12,0.0,0.01,train
+cb_v01,"5 Unbelievable Secrets Airlines Don't Want You to Know",nottheonion,7,1,1,7,2,1,0,0,0,10,0.0,0.83,val
+cb_v02,"You Won't Believe What This Simple Morning Routine Does to Your Brain",UpliftingNews,7,1,1,7,2,0,0,0,0,13,0.0,0.79,val
+cb_v03,"WATCH: This Video Proves Everything You Were Taught About History Is a Lie",worldnews,7,1,1,7,2,0,0,0,0,14,0.08,0.87,val
+cb_v04,"The One Thing Doctors Do Every Morning That They Never Tell Their Patients",YouShouldKnow,7,1,1,7,2,0,0,0,0,14,0.0,0.71,val
+cb_v05,"Here's Why You Should Never Trust Sunscreen — And What to Use Instead",LifeProTips,7,1,1,7,2,0,0,0,0,14,0.0,0.70,val
+sat_v01,"Man Finishes Podcast Certain He Now Knows More About Economics Than Economists",nottheonion,1,1,1,1,0,0,0,0,0,14,0.0,0.18,val
+sat_v02,"Scientists Develop New AI That Can Tell You Exactly How Your Diet Will Kill You",nottheonion,1,1,1,1,0,0,0,0,0,14,0.0,0.21,val
+fc_v01,"Photograph of Empty Supermarket Shelves Shared as UK Food Crisis — Actually from 2010 Snowstorm",worldnews,4,1,1,4,1,0,0,0,0,15,0.0,0.26,val
+true_v01,"Bank of England holds base rate at 4.75% following MPC vote",news,0,0,0,0,0,0,0,0,0,10,0.0,0.01,val
+cb_t01,"13 Things You Absolutely Must Know Before You Turn 30",interestingasfuck,7,1,1,7,2,1,0,0,0,11,0.0,0.81,test
+cb_t02,"SHOCKING: What This Company Has Been Putting in Your Food for 20 Years",nottheonion,7,1,1,7,2,0,0,0,0,14,0.08,0.88,test
+cb_t03,"You've Been Brushing Your Teeth Wrong Your Whole Life — Here's Proof",todayilearned,7,1,1,7,2,0,0,0,0,13,0.0,0.73,test
+cb_t04,"Find Out Why Millions of People Are Quitting Social Media After Seeing This",news,7,1,1,7,2,0,0,0,0,13,0.0,0.69,test
+cb_t05,"The Craziest Things That Happen in Your Body When You Don't Sleep",LifeProTips,7,1,1,7,2,0,0,0,0,13,0.0,0.71,test
+sat_t01,"Man Spends 4 Hours Arguing Online, Somehow Still Confident He Is Winning",nottheonion,1,1,1,1,0,0,0,0,0,13,0.0,0.17,test
+fc_t01,"Photo Showing 'Flooded City Streets' Shared as Climate Warning — Actually Bangkok 2011",worldnews,4,1,1,4,1,0,0,0,0,13,0.0,0.25,test
+true_t01,"NASA confirms successful test of Artemis lunar lander prototype",news,0,0,0,0,0,0,0,0,0,9,0.0,0.02,test
