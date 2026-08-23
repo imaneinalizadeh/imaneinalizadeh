@@ -30,8 +30,8 @@ Contributed to designing and developing a scalable Canvas LMS for Arman Institut
 
 ## Education
 
-- **University of Edinburgh** — MSc Computer Science (High Performance Computing & Data Science), 2025–2026 *(TBC)*
-- **Brunel University London** — BSc Artificial Intelligence, 2022–2025 — First Class Honours
+- **University of Edinburgh** — MSc Computer Science (High Performance Computing & Data Science), 2025–2026 — First Class Honours
+- **Brunel University London** — BSc Artificial Intelligence, 2022–2025 — 2:1
 - **Bath Academy** — Associate Degree in Computer Science — First Class
 
 ---
