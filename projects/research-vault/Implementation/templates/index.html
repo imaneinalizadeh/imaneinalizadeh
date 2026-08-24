@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Research Vault — Overview</h1>
+<p><strong>{{ paper_count }}</strong> papers indexed.</p>
+
+<table>
+    <tr><th>Category</th><th>Count</th></tr>
+    {% for category, count in category_counts %}
+    <tr><td>{{ category }}</td><td>{{ count }}</td></tr>
+    {% endfor %}
+</table>
+
+<h2>Entity charts</h2>
+<img src="/static/entity_top_entities.png" alt="Top entities chart" onerror="this.style.display='none'">
+<img src="/static/entity_cooccurrence_network.png" alt="Entity co-occurrence network" onerror="this.style.display='none'">
+<p><em>Run the <code>entities</code> command in the CLI first if these are blank.</em></p>
+{% endblock %}

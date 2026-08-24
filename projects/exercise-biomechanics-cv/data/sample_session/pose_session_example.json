@@ -1,0 +1,1270 @@
+{
+  "_note": "Synthetic demo session for testing analysis notebook \u2014 not a real recorded workout",
+  "summary": {
+    "total_reps": 5,
+    "reps_at_parallel_or_below": 4,
+    "success_rate_pct": 80.0,
+    "best_depth_deg": 77.4,
+    "average_depth_deg": 85.8,
+    "rep_depths_deg": [
+      80.7,
+      90.6,
+      77.4,
+      96.7,
+      83.6
+    ],
+    "frames_processed": 250
+  },
+  "frame_log": [
+    {
+      "frame": 0,
+      "knee_angle_deg": 172.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 1,
+      "knee_angle_deg": 169.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 2,
+      "knee_angle_deg": 169.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 3,
+      "knee_angle_deg": 167.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 4,
+      "knee_angle_deg": 167.4,
+      "phase": "standing"
+    },
+    {
+      "frame": 5,
+      "knee_angle_deg": 164.1,
+      "phase": "standing"
+    },
+    {
+      "frame": 6,
+      "knee_angle_deg": 161.4,
+      "phase": "standing"
+    },
+    {
+      "frame": 7,
+      "knee_angle_deg": 154.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 8,
+      "knee_angle_deg": 150.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 9,
+      "knee_angle_deg": 144.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 10,
+      "knee_angle_deg": 139.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 11,
+      "knee_angle_deg": 135.5,
+      "phase": "descending"
+    },
+    {
+      "frame": 12,
+      "knee_angle_deg": 127.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 13,
+      "knee_angle_deg": 123.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 14,
+      "knee_angle_deg": 119.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 15,
+      "knee_angle_deg": 113.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 16,
+      "knee_angle_deg": 106.7,
+      "phase": "descending"
+    },
+    {
+      "frame": 17,
+      "knee_angle_deg": 103.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 18,
+      "knee_angle_deg": 99.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 19,
+      "knee_angle_deg": 92.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 20,
+      "knee_angle_deg": 91.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 21,
+      "knee_angle_deg": 88.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 22,
+      "knee_angle_deg": 84.5,
+      "phase": "bottom"
+    },
+    {
+      "frame": 23,
+      "knee_angle_deg": 82.0,
+      "phase": "bottom"
+    },
+    {
+      "frame": 24,
+      "knee_angle_deg": 84.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 25,
+      "knee_angle_deg": 81.3,
+      "phase": "bottom"
+    },
+    {
+      "frame": 26,
+      "knee_angle_deg": 80.7,
+      "phase": "bottom"
+    },
+    {
+      "frame": 27,
+      "knee_angle_deg": 81.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 28,
+      "knee_angle_deg": 86.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 29,
+      "knee_angle_deg": 88.0,
+      "phase": "bottom"
+    },
+    {
+      "frame": 30,
+      "knee_angle_deg": 91.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 31,
+      "knee_angle_deg": 95.1,
+      "phase": "bottom"
+    },
+    {
+      "frame": 32,
+      "knee_angle_deg": 98.5,
+      "phase": "bottom"
+    },
+    {
+      "frame": 33,
+      "knee_angle_deg": 104.8,
+      "phase": "ascending"
+    },
+    {
+      "frame": 34,
+      "knee_angle_deg": 107.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 35,
+      "knee_angle_deg": 113.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 36,
+      "knee_angle_deg": 119.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 37,
+      "knee_angle_deg": 124.6,
+      "phase": "ascending"
+    },
+    {
+      "frame": 38,
+      "knee_angle_deg": 131.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 39,
+      "knee_angle_deg": 135.7,
+      "phase": "ascending"
+    },
+    {
+      "frame": 40,
+      "knee_angle_deg": 141.7,
+      "phase": "ascending"
+    },
+    {
+      "frame": 41,
+      "knee_angle_deg": 144.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 42,
+      "knee_angle_deg": 150.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 43,
+      "knee_angle_deg": 154.8,
+      "phase": "ascending"
+    },
+    {
+      "frame": 44,
+      "knee_angle_deg": 158.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 45,
+      "knee_angle_deg": 162.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 46,
+      "knee_angle_deg": 164.8,
+      "phase": "standing"
+    },
+    {
+      "frame": 47,
+      "knee_angle_deg": 168.0,
+      "phase": "standing"
+    },
+    {
+      "frame": 48,
+      "knee_angle_deg": 171.1,
+      "phase": "standing"
+    },
+    {
+      "frame": 49,
+      "knee_angle_deg": 171.1,
+      "phase": "standing"
+    },
+    {
+      "frame": 50,
+      "knee_angle_deg": 171.5,
+      "phase": "standing"
+    },
+    {
+      "frame": 51,
+      "knee_angle_deg": 170.5,
+      "phase": "standing"
+    },
+    {
+      "frame": 52,
+      "knee_angle_deg": 169.8,
+      "phase": "standing"
+    },
+    {
+      "frame": 53,
+      "knee_angle_deg": 170.9,
+      "phase": "standing"
+    },
+    {
+      "frame": 54,
+      "knee_angle_deg": 167.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 55,
+      "knee_angle_deg": 164.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 56,
+      "knee_angle_deg": 159.7,
+      "phase": "descending"
+    },
+    {
+      "frame": 57,
+      "knee_angle_deg": 158.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 58,
+      "knee_angle_deg": 151.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 59,
+      "knee_angle_deg": 148.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 60,
+      "knee_angle_deg": 146.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 61,
+      "knee_angle_deg": 139.6,
+      "phase": "descending"
+    },
+    {
+      "frame": 62,
+      "knee_angle_deg": 134.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 63,
+      "knee_angle_deg": 129.7,
+      "phase": "descending"
+    },
+    {
+      "frame": 64,
+      "knee_angle_deg": 125.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 65,
+      "knee_angle_deg": 120.1,
+      "phase": "descending"
+    },
+    {
+      "frame": 66,
+      "knee_angle_deg": 113.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 67,
+      "knee_angle_deg": 107.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 68,
+      "knee_angle_deg": 104.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 69,
+      "knee_angle_deg": 101.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 70,
+      "knee_angle_deg": 97.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 71,
+      "knee_angle_deg": 97.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 72,
+      "knee_angle_deg": 95.3,
+      "phase": "bottom"
+    },
+    {
+      "frame": 73,
+      "knee_angle_deg": 91.5,
+      "phase": "bottom"
+    },
+    {
+      "frame": 74,
+      "knee_angle_deg": 91.9,
+      "phase": "bottom"
+    },
+    {
+      "frame": 75,
+      "knee_angle_deg": 90.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 76,
+      "knee_angle_deg": 93.0,
+      "phase": "bottom"
+    },
+    {
+      "frame": 77,
+      "knee_angle_deg": 92.1,
+      "phase": "bottom"
+    },
+    {
+      "frame": 78,
+      "knee_angle_deg": 92.9,
+      "phase": "bottom"
+    },
+    {
+      "frame": 79,
+      "knee_angle_deg": 95.0,
+      "phase": "bottom"
+    },
+    {
+      "frame": 80,
+      "knee_angle_deg": 99.0,
+      "phase": "bottom"
+    },
+    {
+      "frame": 81,
+      "knee_angle_deg": 101.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 82,
+      "knee_angle_deg": 106.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 83,
+      "knee_angle_deg": 111.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 84,
+      "knee_angle_deg": 113.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 85,
+      "knee_angle_deg": 117.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 86,
+      "knee_angle_deg": 125.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 87,
+      "knee_angle_deg": 129.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 88,
+      "knee_angle_deg": 132.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 89,
+      "knee_angle_deg": 137.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 90,
+      "knee_angle_deg": 142.5,
+      "phase": "ascending"
+    },
+    {
+      "frame": 91,
+      "knee_angle_deg": 149.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 92,
+      "knee_angle_deg": 154.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 93,
+      "knee_angle_deg": 157.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 94,
+      "knee_angle_deg": 159.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 95,
+      "knee_angle_deg": 163.8,
+      "phase": "standing"
+    },
+    {
+      "frame": 96,
+      "knee_angle_deg": 169.0,
+      "phase": "standing"
+    },
+    {
+      "frame": 97,
+      "knee_angle_deg": 169.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 98,
+      "knee_angle_deg": 172.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 99,
+      "knee_angle_deg": 173.1,
+      "phase": "standing"
+    },
+    {
+      "frame": 100,
+      "knee_angle_deg": 170.0,
+      "phase": "standing"
+    },
+    {
+      "frame": 101,
+      "knee_angle_deg": 172.5,
+      "phase": "standing"
+    },
+    {
+      "frame": 102,
+      "knee_angle_deg": 171.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 103,
+      "knee_angle_deg": 168.9,
+      "phase": "standing"
+    },
+    {
+      "frame": 104,
+      "knee_angle_deg": 165.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 105,
+      "knee_angle_deg": 163.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 106,
+      "knee_angle_deg": 157.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 107,
+      "knee_angle_deg": 154.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 108,
+      "knee_angle_deg": 150.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 109,
+      "knee_angle_deg": 147.1,
+      "phase": "descending"
+    },
+    {
+      "frame": 110,
+      "knee_angle_deg": 141.4,
+      "phase": "descending"
+    },
+    {
+      "frame": 111,
+      "knee_angle_deg": 133.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 112,
+      "knee_angle_deg": 128.4,
+      "phase": "descending"
+    },
+    {
+      "frame": 113,
+      "knee_angle_deg": 121.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 114,
+      "knee_angle_deg": 118.4,
+      "phase": "descending"
+    },
+    {
+      "frame": 115,
+      "knee_angle_deg": 112.6,
+      "phase": "descending"
+    },
+    {
+      "frame": 116,
+      "knee_angle_deg": 104.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 117,
+      "knee_angle_deg": 101.1,
+      "phase": "descending"
+    },
+    {
+      "frame": 118,
+      "knee_angle_deg": 96.3,
+      "phase": "bottom"
+    },
+    {
+      "frame": 119,
+      "knee_angle_deg": 90.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 120,
+      "knee_angle_deg": 88.9,
+      "phase": "bottom"
+    },
+    {
+      "frame": 121,
+      "knee_angle_deg": 84.9,
+      "phase": "bottom"
+    },
+    {
+      "frame": 122,
+      "knee_angle_deg": 83.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 123,
+      "knee_angle_deg": 80.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 124,
+      "knee_angle_deg": 77.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 125,
+      "knee_angle_deg": 78.3,
+      "phase": "bottom"
+    },
+    {
+      "frame": 126,
+      "knee_angle_deg": 77.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 127,
+      "knee_angle_deg": 82.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 128,
+      "knee_angle_deg": 83.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 129,
+      "knee_angle_deg": 86.1,
+      "phase": "bottom"
+    },
+    {
+      "frame": 130,
+      "knee_angle_deg": 87.1,
+      "phase": "bottom"
+    },
+    {
+      "frame": 131,
+      "knee_angle_deg": 89.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 132,
+      "knee_angle_deg": 97.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 133,
+      "knee_angle_deg": 102.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 134,
+      "knee_angle_deg": 104.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 135,
+      "knee_angle_deg": 111.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 136,
+      "knee_angle_deg": 115.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 137,
+      "knee_angle_deg": 123.6,
+      "phase": "ascending"
+    },
+    {
+      "frame": 138,
+      "knee_angle_deg": 129.5,
+      "phase": "ascending"
+    },
+    {
+      "frame": 139,
+      "knee_angle_deg": 132.7,
+      "phase": "ascending"
+    },
+    {
+      "frame": 140,
+      "knee_angle_deg": 139.8,
+      "phase": "ascending"
+    },
+    {
+      "frame": 141,
+      "knee_angle_deg": 145.5,
+      "phase": "ascending"
+    },
+    {
+      "frame": 142,
+      "knee_angle_deg": 149.5,
+      "phase": "ascending"
+    },
+    {
+      "frame": 143,
+      "knee_angle_deg": 156.6,
+      "phase": "ascending"
+    },
+    {
+      "frame": 144,
+      "knee_angle_deg": 159.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 145,
+      "knee_angle_deg": 162.0,
+      "phase": "standing"
+    },
+    {
+      "frame": 146,
+      "knee_angle_deg": 166.4,
+      "phase": "standing"
+    },
+    {
+      "frame": 147,
+      "knee_angle_deg": 169.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 148,
+      "knee_angle_deg": 169.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 149,
+      "knee_angle_deg": 170.9,
+      "phase": "standing"
+    },
+    {
+      "frame": 150,
+      "knee_angle_deg": 174.0,
+      "phase": "standing"
+    },
+    {
+      "frame": 151,
+      "knee_angle_deg": 172.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 152,
+      "knee_angle_deg": 170.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 153,
+      "knee_angle_deg": 169.5,
+      "phase": "standing"
+    },
+    {
+      "frame": 154,
+      "knee_angle_deg": 165.9,
+      "phase": "standing"
+    },
+    {
+      "frame": 155,
+      "knee_angle_deg": 163.8,
+      "phase": "standing"
+    },
+    {
+      "frame": 156,
+      "knee_angle_deg": 161.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 157,
+      "knee_angle_deg": 158.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 158,
+      "knee_angle_deg": 153.7,
+      "phase": "descending"
+    },
+    {
+      "frame": 159,
+      "knee_angle_deg": 149.6,
+      "phase": "descending"
+    },
+    {
+      "frame": 160,
+      "knee_angle_deg": 144.7,
+      "phase": "descending"
+    },
+    {
+      "frame": 161,
+      "knee_angle_deg": 142.5,
+      "phase": "descending"
+    },
+    {
+      "frame": 162,
+      "knee_angle_deg": 136.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 163,
+      "knee_angle_deg": 134.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 164,
+      "knee_angle_deg": 129.5,
+      "phase": "descending"
+    },
+    {
+      "frame": 165,
+      "knee_angle_deg": 121.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 166,
+      "knee_angle_deg": 118.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 167,
+      "knee_angle_deg": 115.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 168,
+      "knee_angle_deg": 110.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 169,
+      "knee_angle_deg": 106.6,
+      "phase": "descending"
+    },
+    {
+      "frame": 170,
+      "knee_angle_deg": 106.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 171,
+      "knee_angle_deg": 102.9,
+      "phase": "descending"
+    },
+    {
+      "frame": 172,
+      "knee_angle_deg": 100.5,
+      "phase": "descending"
+    },
+    {
+      "frame": 173,
+      "knee_angle_deg": 100.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 174,
+      "knee_angle_deg": 99.5,
+      "phase": "bottom"
+    },
+    {
+      "frame": 175,
+      "knee_angle_deg": 96.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 176,
+      "knee_angle_deg": 96.7,
+      "phase": "bottom"
+    },
+    {
+      "frame": 177,
+      "knee_angle_deg": 98.9,
+      "phase": "bottom"
+    },
+    {
+      "frame": 178,
+      "knee_angle_deg": 100.3,
+      "phase": "ascending"
+    },
+    {
+      "frame": 179,
+      "knee_angle_deg": 102.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 180,
+      "knee_angle_deg": 106.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 181,
+      "knee_angle_deg": 108.7,
+      "phase": "ascending"
+    },
+    {
+      "frame": 182,
+      "knee_angle_deg": 113.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 183,
+      "knee_angle_deg": 113.6,
+      "phase": "ascending"
+    },
+    {
+      "frame": 184,
+      "knee_angle_deg": 118.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 185,
+      "knee_angle_deg": 122.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 186,
+      "knee_angle_deg": 129.5,
+      "phase": "ascending"
+    },
+    {
+      "frame": 187,
+      "knee_angle_deg": 131.7,
+      "phase": "ascending"
+    },
+    {
+      "frame": 188,
+      "knee_angle_deg": 136.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 189,
+      "knee_angle_deg": 141.7,
+      "phase": "ascending"
+    },
+    {
+      "frame": 190,
+      "knee_angle_deg": 146.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 191,
+      "knee_angle_deg": 149.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 192,
+      "knee_angle_deg": 153.8,
+      "phase": "ascending"
+    },
+    {
+      "frame": 193,
+      "knee_angle_deg": 160.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 194,
+      "knee_angle_deg": 161.7,
+      "phase": "standing"
+    },
+    {
+      "frame": 195,
+      "knee_angle_deg": 166.4,
+      "phase": "standing"
+    },
+    {
+      "frame": 196,
+      "knee_angle_deg": 167.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 197,
+      "knee_angle_deg": 167.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 198,
+      "knee_angle_deg": 172.8,
+      "phase": "standing"
+    },
+    {
+      "frame": 199,
+      "knee_angle_deg": 173.1,
+      "phase": "standing"
+    },
+    {
+      "frame": 200,
+      "knee_angle_deg": 173.9,
+      "phase": "standing"
+    },
+    {
+      "frame": 201,
+      "knee_angle_deg": 173.4,
+      "phase": "standing"
+    },
+    {
+      "frame": 202,
+      "knee_angle_deg": 172.0,
+      "phase": "standing"
+    },
+    {
+      "frame": 203,
+      "knee_angle_deg": 167.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 204,
+      "knee_angle_deg": 166.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 205,
+      "knee_angle_deg": 162.5,
+      "phase": "standing"
+    },
+    {
+      "frame": 206,
+      "knee_angle_deg": 159.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 207,
+      "knee_angle_deg": 154.5,
+      "phase": "descending"
+    },
+    {
+      "frame": 208,
+      "knee_angle_deg": 151.3,
+      "phase": "descending"
+    },
+    {
+      "frame": 209,
+      "knee_angle_deg": 149.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 210,
+      "knee_angle_deg": 141.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 211,
+      "knee_angle_deg": 137.8,
+      "phase": "descending"
+    },
+    {
+      "frame": 212,
+      "knee_angle_deg": 131.1,
+      "phase": "descending"
+    },
+    {
+      "frame": 213,
+      "knee_angle_deg": 125.5,
+      "phase": "descending"
+    },
+    {
+      "frame": 214,
+      "knee_angle_deg": 122.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 215,
+      "knee_angle_deg": 117.0,
+      "phase": "descending"
+    },
+    {
+      "frame": 216,
+      "knee_angle_deg": 110.2,
+      "phase": "descending"
+    },
+    {
+      "frame": 217,
+      "knee_angle_deg": 106.1,
+      "phase": "descending"
+    },
+    {
+      "frame": 218,
+      "knee_angle_deg": 99.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 219,
+      "knee_angle_deg": 96.0,
+      "phase": "bottom"
+    },
+    {
+      "frame": 220,
+      "knee_angle_deg": 95.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 221,
+      "knee_angle_deg": 90.7,
+      "phase": "bottom"
+    },
+    {
+      "frame": 222,
+      "knee_angle_deg": 88.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 223,
+      "knee_angle_deg": 87.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 224,
+      "knee_angle_deg": 83.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 225,
+      "knee_angle_deg": 85.3,
+      "phase": "bottom"
+    },
+    {
+      "frame": 226,
+      "knee_angle_deg": 85.4,
+      "phase": "bottom"
+    },
+    {
+      "frame": 227,
+      "knee_angle_deg": 87.8,
+      "phase": "bottom"
+    },
+    {
+      "frame": 228,
+      "knee_angle_deg": 86.7,
+      "phase": "bottom"
+    },
+    {
+      "frame": 229,
+      "knee_angle_deg": 92.2,
+      "phase": "bottom"
+    },
+    {
+      "frame": 230,
+      "knee_angle_deg": 91.6,
+      "phase": "bottom"
+    },
+    {
+      "frame": 231,
+      "knee_angle_deg": 95.5,
+      "phase": "bottom"
+    },
+    {
+      "frame": 232,
+      "knee_angle_deg": 101.2,
+      "phase": "ascending"
+    },
+    {
+      "frame": 233,
+      "knee_angle_deg": 105.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 234,
+      "knee_angle_deg": 108.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 235,
+      "knee_angle_deg": 113.5,
+      "phase": "ascending"
+    },
+    {
+      "frame": 236,
+      "knee_angle_deg": 121.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 237,
+      "knee_angle_deg": 124.8,
+      "phase": "ascending"
+    },
+    {
+      "frame": 238,
+      "knee_angle_deg": 131.6,
+      "phase": "ascending"
+    },
+    {
+      "frame": 239,
+      "knee_angle_deg": 137.1,
+      "phase": "ascending"
+    },
+    {
+      "frame": 240,
+      "knee_angle_deg": 141.6,
+      "phase": "ascending"
+    },
+    {
+      "frame": 241,
+      "knee_angle_deg": 147.4,
+      "phase": "ascending"
+    },
+    {
+      "frame": 242,
+      "knee_angle_deg": 151.9,
+      "phase": "ascending"
+    },
+    {
+      "frame": 243,
+      "knee_angle_deg": 158.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 244,
+      "knee_angle_deg": 159.0,
+      "phase": "ascending"
+    },
+    {
+      "frame": 245,
+      "knee_angle_deg": 164.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 246,
+      "knee_angle_deg": 165.6,
+      "phase": "standing"
+    },
+    {
+      "frame": 247,
+      "knee_angle_deg": 168.5,
+      "phase": "standing"
+    },
+    {
+      "frame": 248,
+      "knee_angle_deg": 171.3,
+      "phase": "standing"
+    },
+    {
+      "frame": 249,
+      "knee_angle_deg": 170.9,
+      "phase": "standing"
+    }
+  ]
+}

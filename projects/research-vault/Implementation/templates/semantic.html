@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Semantic Similarity Links</h1>
+<p>Top links by spaCy document-vector cosine similarity. Run the <code>semantic</code> CLI command to (re)compute.</p>
+<table>
+    <tr><th>Score</th><th>Paper A</th><th>Paper B</th></tr>
+    {% for link in links %}
+    <tr><td>{{ link.score }}</td><td>{{ link.a }}</td><td>{{ link.b }}</td></tr>
+    {% else %}
+    <tr><td colspan="3">No semantic links computed yet.</td></tr>
+    {% endfor %}
+</table>
+{% endblock %}

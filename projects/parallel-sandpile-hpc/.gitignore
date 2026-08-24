@@ -1,0 +1,18 @@
+# Compiled objects and binary
+*.o
+sandpile_2d
+
+# Output images (regenerate with make run-local or the SLURM scripts)
+*.ppm
+!analysis/scaling_plot.png
+
+# SLURM logs
+slurm-*.out
+
+# Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# macOS
+.DS_Store

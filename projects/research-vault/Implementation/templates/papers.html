@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Papers by Category</h1>
+{% for category, items in grouped.items() %}
+<div class="category-block">
+    <h3>{{ category }}</h3>
+    <ul>
+        {% for title, filename in items %}
+        <li>{{ title }} <small>({{ filename }})</small></li>
+        {% endfor %}
+    </ul>
+</div>
+{% else %}
+<p>No papers indexed yet. Add PDFs to <code>Papers/</code> and run <code>reindex</code> in the CLI.</p>
+{% endfor %}
+{% endblock %}

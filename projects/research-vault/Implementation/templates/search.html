@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Search</h1>
+<form method="get" action="/search">
+    <input type="text" name="term" placeholder="Search title or body text..." value="{{ term or '' }}"
+           onchange="window.location.href='/search/' + encodeURIComponent(this.value)">
+</form>
+
+{% if term %}
+<p>{{ results|length }} result(s) for "{{ term }}":</p>
+<ul>
+    {% for title, filename in results %}
+    <li>{{ title }} <small>({{ filename }})</small></li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,13 @@
+spacy>=3.4.0
+PyMuPDF>=1.20.0
+prompt-toolkit>=3.0.30
+flask>=3.0.0
+numpy>=1.23.0
+networkx>=3.0
+matplotlib>=3.6.0
+pytest>=7.0.0
+
+# After pip install, download at least the small spaCy model:
+#   python -m spacy download en_core_web_sm
+# For meaningful semantic similarity (en_core_web_sm has NO word vectors):
+#   python -m spacy download en_core_web_md

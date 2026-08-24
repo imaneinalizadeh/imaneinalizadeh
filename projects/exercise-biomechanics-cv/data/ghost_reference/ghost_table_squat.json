@@ -1,0 +1,107 @@
+[
+  {
+    "phase_pct": 0.0,
+    "knee_angle": 172.0,
+    "torso_lean": 0.0
+  },
+  {
+    "phase_pct": 5.0,
+    "knee_angle": 171.43,
+    "torso_lean": 0.22
+  },
+  {
+    "phase_pct": 10.0,
+    "knee_angle": 169.75,
+    "torso_lean": 0.86
+  },
+  {
+    "phase_pct": 15.0,
+    "knee_angle": 166.99,
+    "torso_lean": 1.91
+  },
+  {
+    "phase_pct": 20.0,
+    "knee_angle": 163.21,
+    "torso_lean": 3.34
+  },
+  {
+    "phase_pct": 25.0,
+    "knee_angle": 158.53,
+    "torso_lean": 5.13
+  },
+  {
+    "phase_pct": 30.0,
+    "knee_angle": 153.04,
+    "torso_lean": 7.21
+  },
+  {
+    "phase_pct": 35.0,
+    "knee_angle": 146.88,
+    "torso_lean": 9.56
+  },
+  {
+    "phase_pct": 40.0,
+    "knee_angle": 140.21,
+    "torso_lean": 12.09
+  },
+  {
+    "phase_pct": 45.0,
+    "knee_angle": 133.2,
+    "torso_lean": 14.76
+  },
+  {
+    "phase_pct": 50.0,
+    "knee_angle": 126.0,
+    "torso_lean": 17.5
+  },
+  {
+    "phase_pct": 55.0,
+    "knee_angle": 118.8,
+    "torso_lean": 20.24
+  },
+  {
+    "phase_pct": 60.0,
+    "knee_angle": 111.79,
+    "torso_lean": 22.91
+  },
+  {
+    "phase_pct": 65.0,
+    "knee_angle": 105.12,
+    "torso_lean": 25.44
+  },
+  {
+    "phase_pct": 70.0,
+    "knee_angle": 98.96,
+    "torso_lean": 27.79
+  },
+  {
+    "phase_pct": 75.0,
+    "knee_angle": 93.47,
+    "torso_lean": 29.87
+  },
+  {
+    "phase_pct": 80.0,
+    "knee_angle": 88.79,
+    "torso_lean": 31.66
+  },
+  {
+    "phase_pct": 85.0,
+    "knee_angle": 85.01,
+    "torso_lean": 33.09
+  },
+  {
+    "phase_pct": 90.0,
+    "knee_angle": 82.25,
+    "torso_lean": 34.14
+  },
+  {
+    "phase_pct": 95.0,
+    "knee_angle": 80.57,
+    "torso_lean": 34.78
+  },
+  {
+    "phase_pct": 100.0,
+    "knee_angle": 80.0,
+    "torso_lean": 35.0
+  }
+]

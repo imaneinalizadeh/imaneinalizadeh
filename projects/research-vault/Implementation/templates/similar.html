@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Elite Links (Heuristic Similarity)</h1>
+<p>Top links by rare-keyword Jaccard overlap. Run the <code>similar</code> CLI command to (re)compute.</p>
+<table>
+    <tr><th>Score</th><th>Paper A</th><th>Paper B</th></tr>
+    {% for link in links %}
+    <tr><td>{{ link.score }}</td><td>{{ link.a }}</td><td>{{ link.b }}</td></tr>
+    {% else %}
+    <tr><td colspan="3">No heuristic links computed yet.</td></tr>
+    {% endfor %}
+</table>
+{% endblock %}

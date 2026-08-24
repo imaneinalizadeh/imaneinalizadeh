@@ -1,0 +1,4 @@
+nodes,ranks,wall_time_s,speedup,efficiency_pct
+1,4,177.43,1.00,100.0
+1,16,66.88,2.65,66.3
+2,32,36.83,4.82,60.2

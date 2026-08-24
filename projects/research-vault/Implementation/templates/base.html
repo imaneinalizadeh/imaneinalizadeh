@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Research Vault{% block title_suffix %}{% endblock %}</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; color: #222; }
+        nav a { margin-right: 1rem; text-decoration: none; color: #2c5f8a; }
+        nav { border-bottom: 1px solid #ddd; padding-bottom: 0.75rem; margin-bottom: 1.5rem; }
+        h1 { font-size: 1.5rem; }
+        table { border-collapse: collapse; width: 100%; margin-top: 1rem; }
+        td, th { text-align: left; padding: 0.4rem 0.6rem; border-bottom: 1px solid #eee; }
+        .category-block { margin-bottom: 1.5rem; }
+        img { max-width: 100%; border: 1px solid #ddd; border-radius: 4px; margin-top: 1rem; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/">Overview</a>
+        <a href="/papers">Papers</a>
+        <a href="/search">Search</a>
+        <a href="/semantic">Semantic Links</a>
+        <a href="/similar">Elite Links</a>
+    </nav>
+    {% block content %}{% endblock %}
+</body>
+</html>

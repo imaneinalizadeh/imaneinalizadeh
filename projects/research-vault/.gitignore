@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+Implementation/data/*.sqlite
+Implementation/static/*.png
+Implementation/Papers/*.pdf
+!Implementation/Papers/.gitkeep
+results/*.gexf
+.DS_Store

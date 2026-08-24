@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local video files (large, personal — don't commit)
+*.mp4
+*.mov
+!data/**/*.mp4
+
+.DS_Store

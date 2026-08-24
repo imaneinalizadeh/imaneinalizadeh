@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+java-server/src/*.class
+*.mp4
+!data/**/*.mp4
+.DS_Store

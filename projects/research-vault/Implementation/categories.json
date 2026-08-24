@@ -1,0 +1,27 @@
+{
+  "Machine Learning & Deep Learning": [
+    "neural", "deep learning", "transformer", "convolutional", "gradient descent",
+    "backpropagation", "reinforcement learning", "attention mechanism", "bert", "gpt"
+  ],
+  "High Performance Computing": [
+    "mpi", "openmp", "cuda", "speedup", "parallel", "supercomputer", "hpc",
+    "distributed computing", "scaling", "slurm"
+  ],
+  "Natural Language Processing": [
+    "language model", "tokenisation", "tokenization", "named entity", "sentiment analysis",
+    "word embedding", "part-of-speech", "text classification"
+  ],
+  "Computer Vision": [
+    "image classification", "object detection", "pose estimation", "segmentation",
+    "convolutional neural network", "optical flow", "opencv"
+  ],
+  "Human-Computer Interaction": [
+    "usability", "eye tracking", "gaze", "gesture", "haptic", "augmented reality",
+    "virtual reality", "mixed reality", "human robot interaction",
+    "conversational agent", "recommendation system"
+  ],
+  "Data Systems & Databases": [
+    "database", "sql", "nosql", "data pipeline", "etl", "data warehouse",
+    "query optimisation", "indexing"
+  ]
+}

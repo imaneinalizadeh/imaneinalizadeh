@@ -1,0 +1,13 @@
+# Pinned to the exact version that has the legacy mp.solutions API —
+# MediaPipe 1.0.0+ dropped it entirely, which breaks pose_utils.py.
+mediapipe==0.10.14
+
+opencv-python-headless>=4.8.0
+numpy>=1.23.0
+
+# Dev / testing
+pytest>=7.0.0
+matplotlib>=3.6.0
+nbformat>=5.9.0
+nbclient>=0.9.0
+ipykernel>=6.25.0

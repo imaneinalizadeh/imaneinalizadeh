@@ -1,0 +1,5 @@
+# Python dependencies for analysis/ and tests/ (the simulation itself
+# is pure C + MPI — this covers post-processing and the test harness only)
+
+matplotlib>=3.6.0
+pytest>=7.0.0
