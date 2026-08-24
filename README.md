@@ -43,9 +43,9 @@ Contributed to designing and developing a scalable Canvas LMS for Arman Institut
 
 | Institution | Qualification | Years |
 |---|---|---|
-| University of Edinburgh | MSc Computer Science (High Performance Computing & Data Science) | 2025–2026 |
-| Brunel University London | BSc Artificial Intelligence | 2022–2025 |
-| Bath Academy | Associate Degree in Computer Science — First Class | — |
+| University of Edinburgh | MSc Computer Science (High Performance Computing & Data Science) — First Class | 2025–2026 |
+| Brunel University London | BSc Artificial Intelligence — 2:1 | 2022–2025 |
+| Bath Academy | Associate Degree in Computer Science — First Class | 2021–2022 |
 
 ---
 
